@@ -564,6 +564,18 @@
 			"Story"]
 	},
 	{
+		"name": "Fblthp's Maze",
+		"displayName": "Fblthp's Maze",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "Maze",
+		"map": "../Realm of Legends/maps/map/merfolkpool/Fblthps_Maze.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
 		"name": "Planeswalker Dueling Club",
 		"displayName": "Planeswalker Dueling Club",
 		"type": "dungeon",
