@@ -1004,7 +1004,7 @@
     "name":"40KShop",
     "description":"Grimdark Armory",
     "spriteAtlas":"maps/tileset/buildings.atlas",
-    "sprite":"UBShop",
+    "sprite":"SpaceMarineShop",
     "rewards": [
       {
         "count":4,
@@ -1230,6 +1230,18 @@
       {
         "count":8,
         "sourceDeck": "decks/rewards/SLD_Exclusives.dck"
+      }]
+
+  },
+  {
+    "name":"AlchemyShop",
+    "description":"Wonders of Alchemy",
+    "spriteAtlas":"maps/tileset/buildings.atlas",
+    "sprite":"WandShop",
+    "rewards": [
+      {
+        "count":8,
+        "sourceDeck": "decks/rewards/digital_exclusives.dck"
       }]
 
   },
