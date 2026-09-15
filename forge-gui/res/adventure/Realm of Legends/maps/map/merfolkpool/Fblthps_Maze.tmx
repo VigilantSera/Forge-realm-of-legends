@@ -98,7 +98,7 @@ BE WARNED: THIS MAZE IS VERY BIG AND DOES NOT HAVE CHECKPOINTS. ENTER AT YOUR OW
 	}
 	]</property>
     <property name="effect" value="{&quot;startBattleWithCard&quot;: [&quot;Borborygmos&quot;]}"/>
-    <property name="enemy" value="Fblthp and Borborygmos"/>
+    <property name="enemy" value="Borborygmos and Fblthp"/>
     <property name="speedModifier" type="float" value="40"/>
     <property name="threatRange" type="int" value="30"/>
    </properties>

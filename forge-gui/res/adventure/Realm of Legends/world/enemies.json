@@ -12556,10 +12556,10 @@
     "spawnRate": 0
   },
   {
-    "name": "Fblthp, Lost in the Pits",
+    "name": "Fblthp Impossibly Lost",
     "sprite": "sprites/enemy/giant/cyclops.atlas",
     "deck": [
-      "decks/legends/fblthp_lost_in_the_pits.dck"
+      "decks/legends/fblthp_impossibly_lost.dck"
     ],
     "ai": "",
     "speed": 60,
@@ -12574,8 +12574,7 @@
       {
         "type": "card",
         "count": 1,
-        "cardName": "Fblthp, the Lost",
-        "sourceDeck": "decks/rewards/Fblthp_SLD.dck"
+        "cardName": "Fblthp, Impossibly Lost"
       },
       {
         "type": "deckCard",
@@ -12645,10 +12644,10 @@
     "spawnRate": 0
   },
   {
-    "name": "Fblthp, Lost in the Rivers",
+    "name": "Fblthp",
     "sprite": "sprites/enemy/giant/cyclops.atlas",
     "deck": [
-      "decks/legends/fblthp_lost_in_the_rivers.dck"
+      "decks/legends/fblthp.dck"
     ],
     "ai": "",
     "speed": 60,
@@ -12663,8 +12662,7 @@
       {
         "type": "card",
         "count": 1,
-        "cardName": "Fblthp, the Lost",
-        "sourceDeck": "decks/rewards/Alt-Art_RVR.dck"
+        "cardName": "Fblthp, the Lost"
       },
       {
         "type": "deckCard",
@@ -12734,10 +12732,10 @@
     "spawnRate": 0
   },
   {
-    "name": "Fblthp, Lost in the Stones",
+    "name": "Fblthp Lost on the Range",
     "sprite": "sprites/enemy/giant/cyclops.atlas",
     "deck": [
-      "decks/legends/fblthp_lost_in_the_stones.dck"
+      "decks/legends/fblthp_lost_on_the_range.dck"
     ],
     "ai": "",
     "speed": 60,
@@ -12752,8 +12750,7 @@
       {
         "type": "card",
         "count": 1,
-        "cardName": "Fblthp, Lost on the Range",
-        "editions": [ "OTJ" ]
+        "cardName": "Fblthp, Lost on the Range"
       },
       {
         "type": "deckCard",
@@ -12823,10 +12820,10 @@
     "spawnRate": 0
   },
   {
-    "name": "Fblthp, Lost in the Walls",
+    "name": "Fblthp Knows the Way",
     "sprite": "sprites/enemy/giant/cyclops.atlas",
     "deck": [
-      "decks/legends/fblthp_lost_in_the_walls.dck"
+      "decks/legends/fblthp_knows_the_way.dck"
     ],
     "ai": "",
     "speed": 60,
@@ -12841,8 +12838,7 @@
       {
         "type": "card",
         "count": 1,
-        "cardName": "Fblthp, the Lost",
-        "editions": [ "WAR" ]
+        "cardName": "Fblthp, Knows the Way"
       },
       {
         "type": "deckCard",
@@ -12908,7 +12904,7 @@
         "count": 1
       }
     ],
-    "colors": "U",
+    "colors": "G",
     "spawnRate": 0
   },
   {
