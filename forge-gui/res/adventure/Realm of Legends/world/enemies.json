@@ -386,6 +386,16 @@
         "cardName": "Edgar Markov"
       },
       {
+        "type": "card",
+        "count": 1,
+        "cardName": "Edgar, Ancient Bloodlord"
+      },
+      {
+        "type": "card",
+        "count": 1,
+        "cardName": "Edgar, Charmed Groom"
+      },
+      {
         "type": "deckCard",
         "count": 6,
         "addMaxCount": 8, 
@@ -393,15 +403,6 @@
           "Rare",
           "Mythic Rare"
         ]
-      },
-      {
-        "type": "randomCard",
-        "count": 1,
-        "addMaxCount": 2, 
-        "rarity": [
-          "Rare",
-          "Mythic Rare"
-	]
       },
       {
         "type": "gold",
@@ -711,8 +712,13 @@
         "editions": [ "EMN" ]
       },
       {
+        "type": "card",
+        "count": 1,
+        "cardName": "Emrakul, the Exigent Doom"
+      },
+      {
         "type": "randomCard",
-        "count": 12,
+        "count": 11,
         "addMaxCount": 12,
         "rarity": [
           "Rare",
@@ -14157,6 +14163,11 @@
         "cardName": "Karn, Silver Golem"
       },
       {
+        "type": "card",
+        "count": 1,
+        "cardName": "Karn, Argent Defender"
+      },
+      {
         "type": "deckCard",
         "count": 2,
         "addMaxCount": 4,
@@ -14176,7 +14187,7 @@
       },
       {
         "type": "randomCard",
-        "count": 2,
+        "count": 1,
         "addMaxCount": 2,
         "rarity": [
           "Rare",
@@ -22748,6 +22759,16 @@
         "cardName": "Winter, Cursed Rider"
       },
       {
+        "type": "card",
+        "count": 1,
+        "cardName": "Winter, Tormented Loner"
+      },
+      {
+        "type": "card",
+        "count": 1,
+        "cardName": "Winter, Team Player"
+      },
+      {
         "type": "deckCard",
         "count": 2,
         "addMaxCount": 4,
@@ -22772,15 +22793,6 @@
         "rarity": [
           "Rare",
           "Mythic Rare"
-	]
-      },
-      {
-        "type": "randomCard",
-        "count": 1,
-        "addMaxCount": 3,
-        "rarity": [
-          "common",
-	        "uncommon"
 	]
       },
       {
@@ -23631,6 +23643,11 @@
         "type": "card",
         "count": 1,
         "cardName": "Ghalta, Stampede Tyrant"
+      },
+      {
+        "type": "card",
+        "count": 1,
+        "cardName": "Ghalta the Unstoppable"
       },
       {
         "type": "deckCard",
@@ -26471,6 +26488,11 @@
         "cardName": "Lyra Dawnbringer"
       },
       {
+        "type": "card",
+        "count": 1,
+        "cardName": "Lyra, Archangel of Dawn"
+      },
+      {
         "type": "deckCard",
         "count": 2,
         "addMaxCount": 4,
@@ -26490,7 +26512,7 @@
       },
       {
         "type": "randomCard",
-        "count": 2,
+        "count": 1,
         "addMaxCount": 4,
         "rarity": [
           "Rare",
@@ -27371,6 +27393,11 @@
         "cardName": "Liliana, Heretical Healer"
       },
       {
+        "type": "card",
+        "count": 1,
+        "cardName": "Liliana, the Repentant"
+      },
+      {
         "type": "deckCard",
         "count": 4,
         "addMaxCount": 4,
@@ -27381,7 +27408,7 @@
       },
       {
         "type": "randomCard",
-        "count": 3,
+        "count": 2,
         "addMaxCount": 6,
         "rarity": [
           "Rare",
@@ -30317,6 +30344,16 @@
         "cardName": "Marwyn's Kindred"
       },
       {
+        "type": "card",
+        "count": 1,
+        "cardName": "Marwyn, the Preserver"
+      },
+      {
+        "type": "card",
+        "count": 1,
+        "cardName": "Marwyn, the Clearcutter"
+      },
+      {
         "type": "deckCard",
         "count": 2,
         "addMaxCount": 4,
@@ -30328,7 +30365,7 @@
       {
         "type": "deckCard",
         "count": 1,
-        "addMaxCount": 3,
+        "addMaxCount": 1,
         "rarity": [
           "common",
 	        "uncommon"
@@ -32967,6 +33004,11 @@
         "cardName": "Tinybones, Bauble Burglar"
       },
       {
+        "type": "card",
+        "count": 1,
+        "cardName": "Tinybones, Pocket Nuisance"
+      },
+      {
         "type": "deckCard",
         "count": 2,
         "addMaxCount": 4,
@@ -32996,7 +33038,7 @@
       {
         "type": "randomCard",
         "count": 1,
-        "addMaxCount": 3,
+        "addMaxCount": 1,
         "rarity": [
           "common",
 	        "uncommon"
@@ -33033,6 +33075,11 @@
         "cardName": "Vraska, the Silencer"
       },
       {
+        "type": "card",
+        "count": 1,
+        "cardName": "Vraska, the Cutting Glare"
+      },
+      {
         "type": "deckCard",
         "count": 2,
         "addMaxCount": 4,
@@ -33052,7 +33099,7 @@
       },
       {
         "type": "randomCard",
-        "count": 2,
+        "count": 1,
         "addMaxCount": 4,
         "rarity": [
           "Rare",
@@ -39051,6 +39098,16 @@
         "cardName": "Pia Nalaar, Consul of Revival"
       },
       {
+        "type": "card",
+        "count": 1,
+        "cardName": "Pia, Determined Rebuilder"
+      },
+      {
+        "type": "card",
+        "count": 1,
+        "cardName": "Pia, Aether Ascetic"
+      },
+      {
         "type": "deckCard",
         "count": 1,
         "addMaxCount": 1,
@@ -39079,8 +39136,8 @@
       },
       {
         "type": "randomCard",
-        "count": 2,
-        "addMaxCount": 4,
+        "count": 1,
+        "addMaxCount": 2,
         "rarity": [
           "common",
           "uncommon"
@@ -42568,6 +42625,11 @@
         "cardName": "Arni Metalbrow"
       },
       {
+        "type": "card",
+        "count": 1,
+        "cardName": "Arni, Renowned Champion"
+      },
+      {
         "type": "deckCard",
         "count": 1,
         "addMaxCount": 3,
@@ -42596,7 +42658,7 @@
       },
       {
         "type": "randomCard",
-        "count": 2,
+        "count": 1,
         "addMaxCount": 4,
         "rarity": [
           "common",
@@ -43158,6 +43220,16 @@
         "cardName": "Traxos, Scourge of Kroog"
       },
       {
+        "type": "card",
+        "count": 1,
+        "cardName": "Traxos, Scourge Eternal"
+      },
+      {
+        "type": "card",
+        "count": 1,
+        "cardName": "Traxos, Academy Guardian"
+      },
+      {
         "type": "deckCard",
         "count": 1,
         "addMaxCount": 3,
@@ -43186,8 +43258,8 @@
       },
       {
         "type": "randomCard",
-        "count": 2,
-        "addMaxCount": 4,
+        "count": 1,
+        "addMaxCount": 2,
         "rarity": [
           "common",
           "uncommon"
@@ -47540,6 +47612,16 @@
         "cardName": "Hapatra, Vizier of Poisons"
       },
       {
+        "type": "card",
+        "count": 1,
+        "cardName": "Hapatra, the Desert Fang"
+      },
+      {
+        "type": "card",
+        "count": 1,
+        "cardName": "Hapatra, the Desert Frost"
+      },
+      {
         "type": "deckCard",
         "count": 1,
         "addMaxCount": 3,
@@ -47568,8 +47650,8 @@
       },
       {
         "type": "randomCard",
-        "count": 2,
-        "addMaxCount": 4,
+        "count": 1,
+        "addMaxCount": 2,
         "rarity": [
           "common",
           "uncommon"
@@ -47671,6 +47753,16 @@
         "cardName": "Gallia of the Endless Dance"
       },
       {
+        "type": "card",
+        "count": 1,
+        "cardName": "Gallia, the Merrymaker"
+      },
+      {
+        "type": "card",
+        "count": 1,
+        "cardName": "Gallia, Tragic Host"
+      },
+      {
         "type": "item",
         "count": 1,
         "probability": 0.5,
@@ -47705,8 +47797,8 @@
       },
       {
         "type": "randomCard",
-        "count": 2,
-        "addMaxCount": 4,
+        "count": 1,
+        "addMaxCount": 2,
         "rarity": [
           "common",
           "uncommon"
@@ -49307,6 +49399,11 @@
         "cardName": "Tetsuko Umezawa, Fugitive"
       },
       {
+        "type": "card",
+        "count": 1,
+        "cardName": "Tetsuko Umezawa, Pursuer"
+      },
+      {
         "type": "deckCard",
         "count": 1,
         "addMaxCount": 3,
@@ -49335,7 +49432,7 @@
       },
       {
         "type": "randomCard",
-        "count": 2,
+        "count": 1,
         "addMaxCount": 4,
         "rarity": [
           "common",
@@ -50523,6 +50620,16 @@
         "cardName": "Danitha, Benalia's Hope"
       },
       {
+        "type": "card",
+        "count": 1,
+        "cardName": "Danitha, Sword of Hope"
+      },
+      {
+        "type": "card",
+        "count": 1,
+        "cardName": "Danitha, Spear of Agony"
+      },
+      {
         "type": "deckCard",
         "count": 1,
         "addMaxCount": 3,
@@ -50547,15 +50654,6 @@
         "rarity": [
           "Rare",
           "Mythic Rare"
-	]
-      },
-      {
-        "type": "randomCard",
-        "count": 2,
-        "addMaxCount": 2,
-        "rarity": [
-          "common",
-          "uncommon"
 	]
       },
       {
@@ -52147,6 +52245,16 @@
         "cardName": "Yuriko, the Tiger's Shadow"
       },
       {
+        "type": "card",
+        "count": 1,
+        "cardName": "Yuriko, Hope from the Shadows"
+      },
+      {
+        "type": "card",
+        "count": 1,
+        "cardName": "Yuriko, Blade of the Mighty"
+      },
+      {
         "type": "item",
         "count": 1,
         "probability": 0.5,
@@ -52181,8 +52289,8 @@
       },
       {
         "type": "randomCard",
-        "count": 2,
-        "addMaxCount": 4,
+        "count": 1,
+        "addMaxCount": 2,
         "rarity": [
           "common",
           "uncommon"
@@ -52923,6 +53031,16 @@
         "cardName": "Loot, Exuberant Explorer"
       },
       {
+        "type": "card",
+        "count": 1,
+        "cardName": "Loot, the Nexus"
+      },
+      {
+        "type": "card",
+        "count": 1,
+        "cardName": "Loot, the Anomaly"
+      },
+      {
         "type": "deckCard",
         "count": 1,
         "addMaxCount": 1,
@@ -52951,8 +53069,8 @@
       },
       {
         "type": "randomCard",
-        "count": 2,
-        "addMaxCount": 4,
+        "count": 1,
+        "addMaxCount": 2,
         "rarity": [
           "common",
           "uncommon"
@@ -59340,6 +59458,16 @@
         "cardName": "Mabel, Heir to Cragflame"
       },
       {
+        "type": "card",
+        "count": 1,
+        "cardName": "Mabel, Valley Hero"
+      },
+      {
+        "type": "card",
+        "count": 1,
+        "cardName": "Mabel, Bitter Recluse"
+      },
+      {
         "type": "deckCard",
         "count": 2,
         "addMaxCount": 4,
@@ -59368,8 +59496,8 @@
       },
       {
         "type": "randomCard",
-        "count": 2,
-        "addMaxCount": 4,
+        "count": 1,
+        "addMaxCount": 2,
         "rarity": [
           "common",
           "uncommon"
