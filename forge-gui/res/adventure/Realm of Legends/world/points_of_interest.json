@@ -1572,6 +1572,150 @@
 			"Story"]
 	},
 	{
+		"name": "Alhammarret's Archive",
+		"displayName": "Alhammarret's Archive",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "Building97",
+		"map": "../Realm of Legends/maps/map/merfolkpool/Alhammarrets_Archive.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
+		"name": "Argivian Military Camp",
+		"displayName": "Argivian Military Camp",
+		"type": "dungeon",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "Building13",
+		"map": "../Realm of Legends/maps/map/fort/Argivian_Military_Camp.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
+		"name": "Assembly Ground",
+		"displayName": "Assembly Ground",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "BarbarianCamp",
+		"map": "../Realm of Legends/maps/map/fort/Assembly_Ground.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
+		"name": "Baneful Cavern",
+		"displayName": "Baneful Cavern",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "Building148",
+		"map": "../Realm of Legends/maps/map/evilgrove/Baneful_Cavern.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
+		"name": "Blor's Pond",
+		"displayName": "Blor's Pond",
+		"type": "dungeon",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "FlamingoPond",
+		"map": "../Realm of Legends/maps/map/grove/Blors_Pond.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
+		"name": "Darksteel Citadel",
+		"displayName": "Darksteel Citadel",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "Castle",
+		"map": "../Realm of Legends/maps/map/cave/Darksteel_Citadel.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
+		"name": "Hellion Cave",
+		"displayName": "Hellion Cave",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "Cave",
+		"map": "../Realm of Legends/maps/map/barbariancamp/Hellion_Cave.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
+		"name": "Hermit's Hideout",
+		"displayName": "Hermit's Hideout",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "Cave",
+		"map": "../Realm of Legends/maps/map/merfolkpool/Hermits_Hideout.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
+		"name": "Isolated Dunes",
+		"displayName": "Isolated Dunes",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "ruinedcity",
+		"map": "../Realm of Legends/maps/map/grove/Isolated_Dunes.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
+		"name": "Jester's Tent",
+		"displayName": "Jester's Tent",
+		"type": "dungeon",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildingsbosses.atlas",
+		"sprite": "Black Circus",
+		"map": "../Realm of Legends/maps/map/merfolkpool/Jesters_Tent.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
+		"name": "Nekoru Nest",
+		"displayName": "Nekoru Nest",
+		"type": "dungeon",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "Building138",
+		"map": "../Realm of Legends/maps/map/barbariancamp/Nekoru_Nest.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
+		"name": "Tresserhorn Keep",
+		"displayName": "Tresserhorn Keep",
+		"type": "dungeon",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "Slobad",
+		"map": "../Realm of Legends/maps/map/evilgrove/Tresserhorn_Keep.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
 		"name": "Black Castle",
 		"displayName": "Fallen Black Castle",
 		"type": "castle",
