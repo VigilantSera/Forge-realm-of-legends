@@ -1752,6 +1752,18 @@
 			"Story"]
 	},
 	{
+		"name": "Hidden Sword Clearing",
+		"displayName": "Hidden Sword Clearing",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "Grove",
+		"map": "../Realm of Legends/maps/map/cave/Hidden_Sword_Clearing.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
 		"name": "Black Castle",
 		"displayName": "Fallen Black Castle",
 		"type": "castle",
