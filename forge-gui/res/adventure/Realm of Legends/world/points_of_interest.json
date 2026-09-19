@@ -1728,6 +1728,18 @@
 			"Story"]
 	},
 	{
+		"name": "Hexhaven Tower",
+		"displayName": "Hexhaven Tower",
+		"type": "sidebossmoderate",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildingsbosses.atlas",
+		"sprite": "HexhavenTower",
+		"map": "../Realm of Legends/maps/map/cave/Hexhaven_Tower_1.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
 		"name": "Black Castle",
 		"displayName": "Fallen Black Castle",
 		"type": "castle",
