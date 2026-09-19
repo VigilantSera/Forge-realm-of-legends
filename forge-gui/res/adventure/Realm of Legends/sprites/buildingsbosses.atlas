@@ -39,6 +39,9 @@ Tibalt
 CrumblingNaktamun
   xy: 329,1
   size: 64, 48
+RealityOverlay
+  xy: 393, 5
+  size: 52, 48
 AncientCaverns
   xy: 265,51
   size: 64, 40

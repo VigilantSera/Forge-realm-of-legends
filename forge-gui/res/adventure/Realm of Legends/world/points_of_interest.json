@@ -1716,6 +1716,18 @@
 			"Story"]
 	},
 	{
+		"name": "Echoverse Overlay",
+		"displayName": "Echoverse Overlay",
+		"type": "sidebosseasy",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildingsbosses.atlas",
+		"sprite": "RealityOverlay",
+		"map": "../Realm of Legends/maps/map/cave/Echoverse_Overlay.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
 		"name": "Black Castle",
 		"displayName": "Fallen Black Castle",
 		"type": "castle",
