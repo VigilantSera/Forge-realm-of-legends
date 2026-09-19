@@ -3927,16 +3927,17 @@
       "iconName": "TruthButcher'sArmor",
       "effect": {
         "changeStartCards": 4,
-        "lifeModifier": -10
+        "lifeModifier": -6
     }
   },
     {
       "name": "Flaming Armor",
-      "description": "Lowers foe's starting health.",
+      "description": "Lowers foe's starting health, ups your a bit.",
       "equipmentSlot": "Body",
       "iconName": "FlamingArmor",
       "cost": 3000,
       "effect": {
+        "lifeModifier": 4,
         "opponent": {
           "lifeModifier": -8
         }
@@ -3973,7 +3974,7 @@
       "iconName": "DivinelyBlessedArmor",
       "cost": 3000,
       "effect": {
-        "lifeModifier": 15,
+        "lifeModifier": 18,
         "opponent": {
           "lifeModifier": 5
         }
@@ -3993,12 +3994,12 @@
   },
     {
       "name": "Forbidden Robes",
-      "description": "Two extra cards at the cost of life",
+      "description": "Three extra cards at the cost of life",
       "equipmentSlot": "Body",
       "iconName": "RestrictedRobes",
       "cost": 3000,
       "effect": {
-        "changeStartCards": 2,
+        "changeStartCards": 3,
         "lifeModifier": -7
     }
   },
@@ -4095,7 +4096,7 @@
     "iconName": "SteelArmor",
     "cost": 1000,
     "effect": {
-        "lifeModifier": 4
+        "lifeModifier": 5
     }
   },
     {
@@ -4112,17 +4113,12 @@
   },
   {
     "name": "Heavy Armor",
-    "description": "An amazing life boost but opponent's permanents enter untapped.",
+    "description": "A massive life boost.",
     "equipmentSlot": "Body",
     "iconName": "UltraHeavyArmor",
     "cost": 3000,
     "effect": {
-      "lifeModifier": 15,
-      "opponent": {
-        "startBattleWithCard": [
-          "Amulet of Vigor|WWK"
-        ]
-      }
+      "lifeModifier": 15
     }
   },
   {
@@ -4242,7 +4238,7 @@
     "iconName": "MithrilArmor",
     "cost": 1500,
     "effect": {
-        "lifeModifier": 8
+        "lifeModifier": 10
     }
   },
   {
@@ -4390,11 +4386,11 @@
   },
   {
     "name": "Phelddagrif Plate",
-    "description": "Opponent gets a 2/2 hippo; you get a card and some life",
+    "description": "Opponent gets a 2/2 hippo; you get two cards and some life",
     "equipmentSlot": "Body",
     "iconName": "PhelddagrifPlate",
     "effect": {
-      "changeStartCards": 1,
+      "changeStartCards": 2,
         "lifeModifier": 8,
         "opponent": {
           "startBattleWithCard": [
@@ -4668,12 +4664,12 @@
   },
     {
       "name": "Sage's Robes",
-      "description": "An extra card and some life.",
+      "description": "Two extra cards and some life.",
       "equipmentSlot": "Body",
       "iconName": "GrandSage'sRobes",
       "cost": 3000,
       "effect": {
-        "changeStartCards": 1,
+        "changeStartCards": 2,
         "lifeModifier": 3
     }
   },
@@ -4696,6 +4692,7 @@
     "equipmentSlot": "Body",
     "iconName": "DiamondBelt",
     "effect": {
+        "changeStartCards": 1,
         "startBattleWithCard": [
         "Diamond Valley|ARN"
      ]
@@ -4740,11 +4737,11 @@
   },
   {
     "name": "Infernal Armor",
-    "description": "Three extra cards, but you are stalked by a 5/5 flying demon.",
+    "description": "Four extra cards, but you are stalked by a 5/5 flying demon.",
     "equipmentSlot": "Body",
     "iconName": "InfernalArmor",
     "effect": {
-      "changeStartCards": 3,
+      "changeStartCards": 4,
         "opponent": {
           "startBattleWithCard": [
             "Tombstalker|TSR"
