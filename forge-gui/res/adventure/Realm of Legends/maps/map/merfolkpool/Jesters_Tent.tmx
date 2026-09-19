@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="29" height="20" tilewidth="16" tileheight="16" infinite="0" nextlayerid="31" nextobjectid="205">
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="29" height="20" tilewidth="16" tileheight="16" infinite="0" nextlayerid="31" nextobjectid="206">
  <editorsettings>
   <export format="tmx"/>
  </editorsettings>
@@ -45,12 +45,6 @@
     <property name="spawn.Normal" type="bool" value="false"/>
    </properties>
   </object>
-  <object id="202" template="../../../../common/maps/obj/door_up.tx" x="221.413" y="179.888">
-   <properties>
-    <property name="teleport" value="../common/maps/map/zedruu/zedruu_f4.tmx"/>
-    <property name="teleportObjectId" value="114"/>
-   </properties>
-  </object>
   <object id="203" template="../../../../common/maps/obj/dialog.tx" x="145.522" y="151.689" width="149.64" height="8.83333" visible="1">
    <properties>
     <property name="dialog">[
@@ -74,6 +68,11 @@ Your manasight stone glows, sensing the power of the legend here.&quot;,
     <property name="spawn.Hard" type="bool" value="false"/>
     <property name="spawn.Insane" type="bool" value="false"/>
     <property name="spawn.Normal" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="205" template="../../../../common/maps/obj/entry_up.tx" x="222.842" y="180.772" width="12.6667" height="16">
+   <properties>
+    <property name="teleport" value=""/>
    </properties>
   </object>
  </objectgroup>

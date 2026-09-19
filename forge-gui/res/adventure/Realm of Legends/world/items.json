@@ -329,6 +329,16 @@
     "iconName": "LandscapeSketchbook"
   },
   {
+    "name": "Landscape Sketchbook - Secrets of Strixhaven",
+    "description": "Gives access to Secrets of Strixhaven land arts in the add basic lands menu of the deckbuilder's upper right corner.",
+    "iconName": "LandscapeSketchbook"
+  },
+  {
+    "name": "Landscape Sketchbook - Reality Fracture",
+    "description": "Gives access to Reality Fracture land arts in the add basic lands menu of the deckbuilder's upper right corner.",
+    "iconName": "LandscapeSketchbook"
+  },
+  {
     "name": "Victor's Key",
     "description": "Unlocks the back of the church.",
     "iconName": "BlackKey",
