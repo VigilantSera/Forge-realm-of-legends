@@ -1740,6 +1740,18 @@
 			"Story"]
 	},
 	{
+		"name": "Theorist's Sanctum",
+		"displayName": "Theorist's Sanctum",
+		"type": "sidebosshard",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "Building79",
+		"map": "../Realm of Legends/maps/map/cave/Theorists_Sanctum.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
 		"name": "Black Castle",
 		"displayName": "Fallen Black Castle",
 		"type": "castle",

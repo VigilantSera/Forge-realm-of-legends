@@ -84,49 +84,49 @@
   <object id="68" template="../../../../common/maps/obj/manashards.tx" x="47.0214" y="189.551"/>
   <object id="69" template="../../../../common/maps/obj/enemy.tx" x="351.286" y="155.214">
    <properties>
-    <property name="enemy" value="Gideon Oathless"/>
+    <property name="enemy" value="Echo Tamiyo"/>
    </properties>
   </object>
   <object id="70" template="../../../../common/maps/obj/enemy.tx" x="353.441" y="204.771">
    <properties>
     <property name="effect" value="{&quot;startBattleWithCard&quot;: [&quot;Transguild Courier&quot;, &quot;Glimmervoid&quot;]}"/>
-    <property name="enemy" value="Karn Gilded Guardian"/>
+    <property name="enemy" value="Echo Karn"/>
    </properties>
   </object>
   <object id="71" template="../../../../common/maps/obj/enemy.tx" x="77.147" y="81.8403">
    <properties>
     <property name="effect" value="{&quot;startBattleWithCard&quot;: [&quot;Yargle, Glutton of Urborg&quot;]}"/>
-    <property name="enemy" value="Yargle"/>
+    <property name="enemy" value="Echo Yargle"/>
    </properties>
   </object>
   <object id="72" template="../../../../common/maps/obj/enemy.tx" x="79.2629" y="152.861">
    <properties>
-    <property name="enemy" value="Lyra Tolarian Archangel"/>
+    <property name="enemy" value="Echo Lyra"/>
    </properties>
   </object>
   <object id="73" template="../../../../common/maps/obj/enemy.tx" x="209.838" y="152.621">
    <properties>
-    <property name="enemy" value="Yuriko Blade of the Mighty"/>
+    <property name="enemy" value="Echo Yuriko"/>
    </properties>
   </object>
   <object id="74" template="../../../../common/maps/obj/enemy.tx" x="147.673" y="223.085">
    <properties>
-    <property name="enemy" value="Edgar Moonlit Sovereign"/>
+    <property name="enemy" value="Echo Edgar"/>
    </properties>
   </object>
   <object id="75" template="../../../../common/maps/obj/enemy.tx" x="319.964" y="65.603">
    <properties>
-    <property name="enemy" value="Ghalta Immovable"/>
+    <property name="enemy" value="Echo Ghalta"/>
    </properties>
   </object>
   <object id="76" template="../../../../common/maps/obj/enemy.tx" x="262.407" y="62.0258">
    <properties>
-    <property name="enemy" value="Kiora of Fire and Ashes"/>
+    <property name="enemy" value="Echo Kiora"/>
    </properties>
   </object>
   <object id="77" template="../../../../common/maps/obj/enemy.tx" x="208.08" y="96.8016">
    <properties>
-    <property name="enemy" value="Ruric Biomagus"/>
+    <property name="enemy" value="Echo Ruric"/>
    </properties>
   </object>
   <object id="78" template="../../../../common/maps/obj/dialog.tx" x="174.5" y="238.75" width="80" height="15.5" visible="1">
