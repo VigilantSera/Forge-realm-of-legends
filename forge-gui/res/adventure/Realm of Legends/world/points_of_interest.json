@@ -1764,6 +1764,78 @@
 			"Story"]
 	},
 	{
+		"name": "Artifact Black Market",
+		"displayName": "Artifact Black Market",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildingsbosses.atlas",
+		"sprite": "Mysterious Merchant",
+		"map": "../Realm of Legends/maps/map/cave/Artifact_Black_Market.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
+		"name": "White Black Market",
+		"displayName": "White Black Market",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildingsbosses.atlas",
+		"sprite": "Mysterious Merchant",
+		"map": "../Realm of Legends/maps/map/fort/White_Black_Market.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
+		"name": "Blue Black Market",
+		"displayName": "Blue Black Market",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildingsbosses.atlas",
+		"sprite": "Mysterious Merchant",
+		"map": "../Realm of Legends/maps/map/merfolkpool/Blue_Black_Market.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
+		"name": "Black Black Market",
+		"displayName": "Black Black Market",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildingsbosses.atlas",
+		"sprite": "Mysterious Merchant",
+		"map": "../Realm of Legends/maps/map/evilgrove/Black_Black_Market.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
+		"name": "Red Black Market",
+		"displayName": "Red Black Market",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildingsbosses.atlas",
+		"sprite": "Mysterious Merchant",
+		"map": "../Realm of Legends/maps/map/barbariancamp/Red_Black_Market.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
+		"name": "Green Black Market",
+		"displayName": "Green Black Market",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildingsbosses.atlas",
+		"sprite": "Mysterious Merchant",
+		"map": "../Realm of Legends/maps/map/grove/Green_Black_Market.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
 		"name": "Black Castle",
 		"displayName": "Fallen Black Castle",
 		"type": "castle",
