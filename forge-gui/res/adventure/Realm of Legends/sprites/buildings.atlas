@@ -429,6 +429,9 @@ Building146
 Building147
   xy: 224, 464
   size: 32, 32
+OtherGraveyard
+  xy: 256, 464
+  size: 32, 32
 Building148
   xy: 288, 464
   size: 32, 32

@@ -1836,6 +1836,18 @@
 			"Story"]
 	},
 	{
+		"name": "Cursed Graveyard",
+		"displayName": "Cursed Graveyard",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "OtherGraveyard",
+		"map": "../Realm of Legends/maps/map/evilgrove/Cursed_Graveyard.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
 		"name": "Black Castle",
 		"displayName": "Fallen Black Castle",
 		"type": "castle",
