@@ -1860,6 +1860,30 @@
 			"Story"]
 	},
 	{
+		"name": "Card Dealer's Cave",
+		"displayName": "Card Dealer's Cave",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildingsbosses.atlas",
+		"sprite": "Shady Merchant",
+		"map": "../Realm of Legends/maps/map/cave/Card_Dealers_Cave.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
+		"name": "Brushwagg Underbrush",
+		"displayName": "Brushwagg Underbrush",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "Grove",
+		"map": "../Realm of Legends/maps/map/grove/Brushwagg_Underbrush.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
 		"name": "Black Castle",
 		"displayName": "Fallen Black Castle",
 		"type": "castle",
