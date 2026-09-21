@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="30" height="17" tilewidth="16" tileheight="16" infinite="0" nextlayerid="9" nextobjectid="72">
+ <editorsettings>
+  <export target="wastetown..tmx" format="tmx"/>
+ </editorsettings>
+ <tileset firstgid="1" source="../../../../common/maps/tileset/main.tsx"/>
+ <tileset firstgid="10113" source="../../../../common/maps/tileset/buildings.tsx"/>
+ <tileset firstgid="11905" source="../../../../common/maps/tileset/main-nocollide.tsx"/>
+ <tileset firstgid="22017" source="../../../../common/maps/tileset/FarmFood.tsx"/>
+ <tileset firstgid="26113" source="../../../../common/maps/tileset/dungeon/dungeon_bis.tsx"/>
+ <layer id="1" name="Background" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGATHAjRM/fyjYCwCl1AE9
+  </data>
+ </layer>
+ <layer id="2" name="Ground" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJzL5GRgyETCT9nog2H2pQ2QvQPlX3rY6wbE7lBMT3uf0Ni/yP5Cxu3smPZR094nWMRw2YduLwig621lpzw8ifErPnCaG6LmuAkCExOe1AjnwxwQTCg805DKB2rYT6xfcNkJEj/JQbz9pIQfPn+C5FKA+AQHGDfgsptYu47h8AM2nM7J0JAGwSA2yemC2PjDpfcUCW6lpdtICTNqhgGtMADi4kwJ
+  </data>
+ </layer>
+ <layer id="6" name="Clutter" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYEAAG24GBgsofsbGgAGWRTAwKIYzMCgBsTIQqwKxGhCrh2OqJQUQY28i0I4kIE4G4lQgTgPidDR7C2Wpa280ED9mZ2B4yo4Qq+VgYNglycBwRYY0ux4xEmfvLygNsleRk4FBlhNhLylgEhcEIwNC/gWBXUD79gGxPBA7A93wgB27OmxAH8l8Uu2F2b2bE7f8RCx+AoEzQHPnAMXnkuFfYgDIX5GcCLMsoPZdA9LX0fw6Eyh+C0ldGzD83NlwYw887kK2F5d92PxKDIa5Cxlc5IZg5PDEZR8MXAXKz+MizW5sGGYfKK/jw+h2XyPBflgYImOY/0ixl1j7CcUZufbiCnti7KOGvch+J9Y+atlLLhgoewcrAAC3FIsb
+  </data>
+ </layer>
+ <layer id="3" name="Foreground" width="30" height="17">
+  <properties>
+   <property name="spriteLayer" type="bool" value="true"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJytlLtOAkEUhg9awGoIG7VCiBriA/gQXhobNbugUNjSaYsaLiZQ2wpqZWLjE6gEtTDxEQQ1qO/hP85OOMzuIBj/5NtkZ2fmmzO7s0TBWZr0t61miLqhfvgzkSfDfKa0hvBWM36fuq9mRvPtgf2Adu5dJCrqz4+iRGtDuFB/ccohiqclB1HZHsNabbZ+5QiqV0+NeTNpyYXj77fBvAKRCc2rIryoqcjbTPV1w0TTLtGMK90iR9HBaw7DeWXw6qlp3oK3rsMI0SacW26vbpGTiX54gmrl3oK27h28BwsXRcIiugFJS+4H9w6Kyfs86V+vQjmF5wN7/Am+wnI/hvVeB3gffx/2s66a5h01eexdPOo/K8PE5L1MD+a3lGJEZY8KWMb8K4x5y+91wv2OF3xvbdBxzd68dj9nY26PBbtXn47win3jKMcsSICkod4znO9zR579lPf/MHmbqLMc6VEB69tEdYxtOL35S1k8Z1Syfu8r+r+Bd/bPuYXrzqNp97/PWexbAiRd2fcF49qgw7wteO4ZD8yr7+2gcO8pfHXQcP39lDeUIxpjjOdkeypg7qA2EfG9cK/zh7NzvDv6mP/wqnwDe26k5A==
+  </data>
+ </layer>
+ <layer id="8" name="Test" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYCANPGKEYHoCmJ30tncUjIJRMLSAXwwDg3A0A8M5IL4QTbr+ZREQTCoQiobY60+mveQCP6BdvkDMD/T3ZDLsPZyIiYkBE6Mgfu0F4vN0tJdSMFD2ooOWAbIXBgCOQCTa
+  </data>
+ </layer>
+ <objectgroup id="4" name="Objects">
+  <object id="38" template="../../../../common/maps/obj/entry_up.tx" x="196" y="272" width="40" height="16"/>
+  <object id="62" template="../../../../common/maps/obj/collision.tx" x="-16" y="-16" width="16" height="304"/>
+  <object id="63" template="../../../../common/maps/obj/collision.tx" x="0" y="-16" width="480" height="16"/>
+  <object id="64" template="../../../../common/maps/obj/collision.tx" x="0" y="272" width="480" height="16"/>
+  <object id="65" template="../../../../common/maps/obj/collision.tx" x="480" y="-16" width="16" height="304"/>
+  <object id="66" template="../../../../common/maps/obj/enemy.tx" x="152.059" y="152.343">
+   <properties>
+    <property name="defeatDialog">[
+	{
+	   &quot;text&quot;: &quot;Jandor steps back, wiping some blood from his nose. 
+
+'A fine battle, and well fought! Let us eat and replenish our strength! And then, shopping!'&quot;,
+	   &quot;options&quot;: [{
+      &quot;name&quot;: &quot;(Continue)&quot;, &quot;action&quot;: [{&quot;deleteMapObject&quot;:-1}]}]
+	}
+	]</property>
+    <property name="effect">{ &quot;startBattleWithCard&quot;: [ &quot;Camel&quot;, &quot;War Elephant&quot;, &quot;Wyluli Wolf&quot;, &quot;Ebony Horse&quot;, &quot;Jandor's Saddlebags&quot;, &quot;Jandor's Ring&quot;]
+}</property>
+    <property name="enemy" value="Jandor"/>
+    <property name="threatRange" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="68" template="../../../../common/maps/obj/dialog.tx" x="179.5" y="241.227" width="77" height="15.5455" visible="1">
+   <properties>
+    <property name="dialog">[
+{
+   &quot;text&quot;: &quot;You come across a caravan parked on a roadside. It seems they are gathering food before continuing their journey. A man sitting next to a grand picnic calls out. 
+
+'Hail traveler! Come feast with us! We can have a friendly battle as well if you wish, and you can shop some of the exotic items my companions have for sale!'&quot;,
+   &quot;options&quot;: [{
+      &quot;name&quot;: &quot;(Continue)&quot;, &quot;action&quot;: [{&quot;deleteMapObject&quot;:-1}]}]
+}
+]</property>
+   </properties>
+  </object>
+  <object id="69" template="../../../../common/maps/obj/dialog.tx" x="250" y="142.227" width="62" height="15.5455" visible="1">
+   <properties>
+    <property name="dialog">[
+{
+   &quot;text&quot;: &quot;As you step down into the little valley, sellers call out from the caravans ahead.
+
+'Fine silks and armors! You won't find these anywhere else! Great prices, wondrous treasures!&quot;,
+   &quot;options&quot;: [{
+      &quot;name&quot;: &quot;(Continue)&quot;, &quot;action&quot;: [{&quot;deleteMapObject&quot;:-1}]}]
+}
+]</property>
+   </properties>
+  </object>
+  <object id="70" template="../../../../common/maps/obj/shop.tx" x="256.5" y="38" width="26.5" height="16">
+   <properties>
+    <property name="commonShopList" value="JandorItems2"/>
+    <property name="mythicShopList" value=""/>
+    <property name="noRestock" type="bool" value="true"/>
+    <property name="rareShopList" value=""/>
+    <property name="uncommonShopList" value=""/>
+   </properties>
+  </object>
+  <object id="71" template="../../../../common/maps/obj/shop.tx" x="196" y="39" width="26.5" height="16">
+   <properties>
+    <property name="commonShopList" value="JandorItems1"/>
+    <property name="mythicShopList" value=""/>
+    <property name="noRestock" type="bool" value="true"/>
+    <property name="rareShopList" value=""/>
+    <property name="uncommonShopList" value=""/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

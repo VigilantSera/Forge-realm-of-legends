@@ -1884,6 +1884,18 @@
 			"Story"]
 	},
 	{
+		"name": "Jandor's Caravan",
+		"displayName": "Jandor's Caravan",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "Building42",
+		"map": "../Realm of Legends/maps/map/grove/Jandors_Caravan.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
 		"name": "Black Castle",
 		"displayName": "Fallen Black Castle",
 		"type": "castle",
