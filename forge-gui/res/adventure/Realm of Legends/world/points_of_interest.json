@@ -1848,6 +1848,18 @@
 			"Story"]
 	},
 	{
+		"name": "Skeleton Ship",
+		"displayName": "Skeleton Ship",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildingsbosses.atlas",
+		"sprite": "Siren",
+		"map": "../Realm of Legends/maps/map/merfolkpool/Skeleton_Ship.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
 		"name": "Black Castle",
 		"displayName": "Fallen Black Castle",
 		"type": "castle",
