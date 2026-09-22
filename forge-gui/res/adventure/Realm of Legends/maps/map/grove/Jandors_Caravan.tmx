@@ -20,7 +20,7 @@
  </layer>
  <layer id="6" name="Clutter" width="30" height="17">
   <data encoding="base64" compression="zlib">
-   eJxjYEAAG24GBgsofsbGgAGWRTAwKIYzMCgBsTIQqwKxGhCrh2OqJQUQY28i0I4kIE4G4lQgTgPidDR7C2Wpa280ED9mZ2B4yo4Qq+VgYNglycBwRYY0ux4xEmfvLygNsleRk4FBlhNhLylgEhcEIwNC/gWBXUD79gGxPBA7A93wgB27OmxAH8l8Uu2F2b2bE7f8RCx+AoEzQHPnAMXnkuFfYgDIX5GcCLMsoPZdA9LX0fw6Eyh+C0ldGzD83NlwYw887kK2F5d92PxKDIa5Cxlc5IZg5PDEZR8MXAXKz+MizW5sGGYfKK/jw+h2XyPBflgYImOY/0ixl1j7CcUZufbiCnti7KOGvch+J9Y+atlLLhgoewcrAAC3FIsb
+   eJzNlM9KAkEAxj8v6uoTCEloD+DVgzcP9QZrdMruhg/gn5N3uwXaoUMPYdATeAnKoJMo+RBB5Te4wwzTjM7agn3wY5bZZX7zzcACKrU8UI1YpfErDw3g3sFfssvrcpredjFZ7wVZZoCPjJrrZIFJAXg54nML6JIe6be2uxYpP+9nNApvKQCKgfLKfNH1TX6E89ruu8ltiNNXZELfEzkmde5hrnenq0t6pG/xVrT1fbylECiTk1C5HwP7vkSGlk4iU6474vzYs+8lfU1yFbpdZq/zQK1VjXwzjm9G11vOv2vfDXh+p2k3Z457ML0un62rD3Jfep7zG/TzdPlkXvn+LhfPbUP6xD9mG6Z7FsMvz1BH9ovj9fXvurN9va6z9/El4dW7+/qS8u6bQ3n/a9aQGZ88
   </data>
  </layer>
  <layer id="3" name="Foreground" width="30" height="17">
@@ -28,7 +28,7 @@
    <property name="spriteLayer" type="bool" value="true"/>
   </properties>
   <data encoding="base64" compression="zlib">
-   eJytlLtOAkEUhg9awGoIG7VCiBriA/gQXhobNbugUNjSaYsaLiZQ2wpqZWLjE6gEtTDxEQQ1qO/hP85OOMzuIBj/5NtkZ2fmmzO7s0TBWZr0t61miLqhfvgzkSfDfKa0hvBWM36fuq9mRvPtgf2Adu5dJCrqz4+iRGtDuFB/ccohiqclB1HZHsNabbZ+5QiqV0+NeTNpyYXj77fBvAKRCc2rIryoqcjbTPV1w0TTLtGMK90iR9HBaw7DeWXw6qlp3oK3rsMI0SacW26vbpGTiX54gmrl3oK27h28BwsXRcIiugFJS+4H9w6Kyfs86V+vQjmF5wN7/Am+wnI/hvVeB3gffx/2s66a5h01eexdPOo/K8PE5L1MD+a3lGJEZY8KWMb8K4x5y+91wv2OF3xvbdBxzd68dj9nY26PBbtXn47win3jKMcsSICkod4znO9zR579lPf/MHmbqLMc6VEB69tEdYxtOL35S1k8Z1Syfu8r+r+Bd/bPuYXrzqNp97/PWexbAiRd2fcF49qgw7wteO4ZD8yr7+2gcO8pfHXQcP39lDeUIxpjjOdkeypg7qA2EfG9cK/zh7NzvDv6mP/wqnwDe26k5A==
+   eJydlE0vA0EYx59y2K6m0eDUEERw9iGIM7LbRntwQNKbvdZLqUPPPgDiIHHxCdB4OUh8B6T4FPX2n8yOfTo7U8s/+TU708385nl2Z4nMmcnE504KRO0NonfQSknUWPwncm9Zz5brhN5qQLQZRHNqrLxJg61SYJjn3kmimrpu4+Z3sJ0lmi9GY1tQf23AI8oXJJtZOd+PXuVScYepXj2NYnRdLEiOvfh9C8ybD/vSp3lVhBc11fjcfDF+n0jLIRr0iYZ86RbZznbfswPnmcWrp6F5q+G+ttJEi3Au+VHdIgd9nfCYauXeqrbvZTwHFz+KYZfoAoy4sh/c2y0270Mmvl+FcgrPC3r8Ct4c2Y+k3nOD9w5MomdTYNq376uhef+aCnqX196hVfjWwLrFq2LznhYiPnBYP8HXRjT3W3b7ifZC6mAW688xxty413M6vVvivIOdwO6taOPRHNYOGc9F9ekIr+gb56de+D7Bl8V7iPN95MmzPxF+P2zeJurcS0fU0+Z+7pbwP6Neinsf4XsCz+ybcwnXVUgz1/k8uUfE1M9reG4Yt8yr97ZbuJd7REz9TJWJehi9ZTk/YVjbNCci3peOepknafZX/lCkxev948yqfAOlmMLt
   </data>
  </layer>
  <layer id="8" name="Test" width="30" height="17">
@@ -85,7 +85,7 @@
 ]</property>
    </properties>
   </object>
-  <object id="70" template="../../../../common/maps/obj/shop.tx" x="256.5" y="38" width="26.5" height="16">
+  <object id="70" template="../../../../common/maps/obj/shop.tx" x="259" y="53.75" width="26.5" height="16">
    <properties>
     <property name="commonShopList" value="JandorItems2"/>
     <property name="mythicShopList" value=""/>
@@ -94,7 +94,7 @@
     <property name="uncommonShopList" value=""/>
    </properties>
   </object>
-  <object id="71" template="../../../../common/maps/obj/shop.tx" x="196" y="39" width="26.5" height="16">
+  <object id="71" template="../../../../common/maps/obj/shop.tx" x="195.75" y="53.25" width="26.5" height="16">
    <properties>
     <property name="commonShopList" value="JandorItems1"/>
     <property name="mythicShopList" value=""/>

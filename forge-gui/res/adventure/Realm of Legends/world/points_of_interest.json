@@ -1908,6 +1908,18 @@
 			"Story"]
 	},
 	{
+		"name": "Thieves' Hideout",
+		"displayName": "Thieves' Hideout",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "banditcave",
+		"map": "../Realm of Legends/maps/map/barbariancamp/Thieves_Hideout.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
 		"name": "Black Castle",
 		"displayName": "Fallen Black Castle",
 		"type": "castle",
