@@ -1932,6 +1932,30 @@
 			"Story"]
 	},
 	{
+		"name": "Koskun Keep",
+		"displayName": "Koskun Keep",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "Building50",
+		"map": "../Realm of Legends/maps/map/barbariancamp/Koskun_Keep.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
+		"name": "Rathi Shadow Rift",
+		"displayName": "Rathi Shadow Rift",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildingsbosses.atlas",
+		"sprite": "Snarl",
+		"map": "../Realm of Legends/maps/map/fort/Rathi_Shadow_Rift.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
 		"name": "Black Castle",
 		"displayName": "Fallen Black Castle",
 		"type": "castle",
