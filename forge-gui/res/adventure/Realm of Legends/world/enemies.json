@@ -38190,7 +38190,7 @@
     "ai": "",
     "scale": 0.5,
     "speed": 45,
-    "life": 20,
+    "life": 30,
     "rewards": [
      {
         "type": "card",
@@ -38198,9 +38198,14 @@
         "cardName": "Sethron, Hurloon General"
       },
       {
-        "type": "deckCard",
+        "type": "item",
         "count": 1,
-        "addMaxCount": 3,
+        "itemName": "Didgeridoo"
+      },
+      {
+        "type": "deckCard",
+        "count": 2,
+        "addMaxCount": 4,
         "rarity": [
           "Rare",
           "Mythic Rare"
@@ -38208,8 +38213,8 @@
       },
       {
         "type": "deckCard",
-        "count": 2,
-        "addMaxCount": 4,
+        "count": 1,
+        "addMaxCount": 3,
         "rarity": [
           "common",
           "uncommon"
@@ -38217,31 +38222,48 @@
       },
       {
         "type": "randomCard",
-        "count": 1,
-        "addMaxCount": 3,
-        "rarity": [
-          "Rare",
-          "Mythic Rare"
-	]
-      },
-      {
-        "type": "randomCard",
         "count": 2,
         "addMaxCount": 4,
         "rarity": [
+          "Rare",
+          "Mythic Rare"
+        ]
+      },
+      {
+        "type": "randomCard",
+        "count": 1,
+        "addMaxCount": 3,
+        "rarity": [
           "common",
           "uncommon"
-	]
+        ]
       },
       {
         "type": "gold",
-        "count": 50,
-        "addMaxCount": 250
+        "count": 100,
+        "addMaxCount": 1000
       },
       {
         "type": "shards",
+        "count": 5,
+        "addMaxCount": 15
+      },
+      {
+        "type": "card",
+        "probability": 0.1,
         "count": 1,
-        "addMaxCount": 5
+        "sourceDeck": "decks/rewards/High_End_Alt-Art.dck"
+      },
+      {
+        "type": "card",
+        "count": 1,
+        "probability": 0.2,
+        "sourceDeck": "decks/rewards/Alt-Art_Staples.dck"
+      },
+      {
+        "type": "landSketchbookShop",
+        "probability": 0.1,
+        "count": 1
       }
     ],
     "colors": "BR",
