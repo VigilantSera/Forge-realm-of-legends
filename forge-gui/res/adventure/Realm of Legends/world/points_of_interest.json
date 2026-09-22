@@ -1956,6 +1956,18 @@
 			"Story"]
 	},
 	{
+		"name": "Old Capenna Memorial",
+		"displayName": "Old Capenna Memorial",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "Building112",
+		"map": "../Realm of Legends/maps/map/fort/Old_Capenna_Memorial.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
 		"name": "Black Castle",
 		"displayName": "Fallen Black Castle",
 		"type": "castle",
