@@ -67,9 +67,9 @@ Gone but not forgotten.&quot;,
                         {&quot;type&quot;: &quot;card&quot;, &quot;count&quot;: 1, &quot;cardName&quot;: &quot;Archangel Elspeth&quot;},
                         {&quot;type&quot;: &quot;card&quot;, &quot;count&quot;: 1, &quot;cardName&quot;: &quot;Elspeth, Storm Slayer&quot;},
                         {&quot;type&quot;: &quot;card&quot;, &quot;count&quot;: 1, &quot;cardName&quot;: &quot;Elspeth Tirel&quot;}              
-                      ]
-                    },
-					&quot;condition&quot;:[{&quot;item&quot;: &quot;Brokers Boots&quot;}, {&quot;item&quot;: &quot;Cabaretti Kicks&quot;}, {&quot;item&quot;: &quot;Obscura Shoes&quot;}, {&quot;item&quot;: &quot;Riveteer Greaves&quot;}, {&quot;item&quot;: &quot;Maestro Loafers&quot;}], 
+                      ] } ]
+                    ,
+					&quot;condition&quot;: [{&quot;item&quot;: &quot;Brokers Boots&quot;}, {&quot;item&quot;: &quot;Cabaretti Kicks&quot;}, {&quot;item&quot;: &quot;Obscura Shoes&quot;}, {&quot;item&quot;: &quot;Riveteer Greaves&quot;}, {&quot;item&quot;: &quot;Maestro Loafers&quot;}],
 					&quot;options&quot;: [ { &quot;name&quot;: &quot;(Continue)&quot; } ]
 				},
 				{
