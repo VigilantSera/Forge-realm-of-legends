@@ -1920,6 +1920,18 @@
 			"Story"]
 	},
 	{
+		"name": "Mtenda Mesa",
+		"displayName": "Mtenda Mesa",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "Building38",
+		"map": "../Realm of Legends/maps/map/fort/Mtenda_Mesa.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
 		"name": "Black Castle",
 		"displayName": "Fallen Black Castle",
 		"type": "castle",
