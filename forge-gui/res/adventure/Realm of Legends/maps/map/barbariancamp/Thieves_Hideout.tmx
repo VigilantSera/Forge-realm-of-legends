@@ -52,7 +52,7 @@
    <properties>
     <property name="dialog">[
   {
-    &quot;text&quot;: &quot;'Why hello dearie, its your Auntie Blyte! Say, heard of tokens? Powerful items in their own special slot? Capitols charge a fortune for them, but I have some unique and very strong ones for no gold at all! They just cost a few slivers of your soul, no big deal really. You'd look great with a bit less soul anyway. Fitter. Sleeker. Sexier. So, why take some for a spin!'&quot;,
+    &quot;text&quot;: &quot;'Why hello dearie, its your Auntie Blyte! Say, heard of tokens? Powerful items in their own special slot? Capitols charge a fortune for them, but I have some unique and very strong ones for no gold at all! They just cost a few slivers of your soul, no big deal really. You'd look great with a bit less soul anyway. Fitter. Sleeker. Sexier. So, why take some for a spin?!'&quot;,
     &quot;options&quot;: [
       {
         &quot;name&quot;: &quot;This sounds like a bad idea.&quot;,
@@ -65,7 +65,7 @@
       },
       {
         &quot;name&quot;: &quot;Tell me about what you're offering.&quot;,
-        &quot;text&quot;: &quot;'Of course, darling! I have a 1/1 devil token that deals 1 damage to anything when it dies, a 1/1 changeling that's every creature type, a munitions artifact token that deals 2 damage to anything when it goes to the graveyard, and the ultimate token - a Treasure that nets a mana of any color!'&quot;,
+        &quot;text&quot;: &quot;'Of course, darling! I have a 1/1 devil token that deals 1 damage to anything when it dies, a 1/1 changeling that's every creature type, a munitions artifact token that deals 2 damage to anything when it goes to the graveyard, and my ultimate token - a 1/1 ninja that can't be blocked!'&quot;,
         &quot;options&quot;: [
           {
             &quot;name&quot;: &quot;Alright, what about prices.&quot;,
@@ -144,7 +144,7 @@
                 ]
               },
               {
-                &quot;name&quot;: &quot;I'll take the treasure token! (PAY 6 MAX LIFE.)&quot;,
+                &quot;name&quot;: &quot;I'll take the Ninja token! (PAY 6 MAX LIFE.)&quot;,
                 &quot;text&quot;: &quot;'Excellent choice! I respect you going for the most opulent and expensive! Nothing beats the power of money!'&quot;,
                 &quot;options&quot;: [
                   {
@@ -159,7 +159,7 @@
                           {
                             &quot;type&quot;: &quot;item&quot;,
                             &quot;count&quot;: 1,
-                            &quot;itemName&quot;: &quot;Token of Treasure&quot;
+                            &quot;itemName&quot;: &quot;Token of Ninjutsu&quot;
                           }
                         ]
                       }

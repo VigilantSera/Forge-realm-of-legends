@@ -20983,7 +20983,7 @@
     "ai": "",
     "speed": 60,
     "scale": 0.8,
-    "life": 30,
+    "life": 40,
     "rewards": [
       {
         "type": "card",
@@ -20991,9 +20991,14 @@
         "cardName": "Grandmother Sengir"
       },
       {
+        "type": "item",
+        "count": 1,
+        "itemName": "Sengir Cloak"
+      },
+      {
         "type": "deckCard",
         "count": 2,
-        "addMaxCount": 4,
+        "addMaxCount": 2,
         "rarity": [
           "Rare",
           "Mythic Rare"
@@ -21005,7 +21010,7 @@
         "addMaxCount": 3,
         "rarity": [
           "common",
-	        "uncommon"
+          "uncommon"
         ]
       },
       {
@@ -21015,7 +21020,7 @@
         "rarity": [
           "Rare",
           "Mythic Rare"
-	]
+        ]
       },
       {
         "type": "randomCard",
@@ -21023,8 +21028,8 @@
         "addMaxCount": 3,
         "rarity": [
           "common",
-	        "uncommon"
-	]
+          "uncommon"
+        ]
       },
       {
         "type": "gold",
@@ -21035,6 +21040,23 @@
         "type": "shards",
         "count": 5,
         "addMaxCount": 15
+      },
+      {
+        "type": "card",
+        "probability": 0.1,
+        "count": 1,
+        "sourceDeck": "decks/rewards/High_End_Alt-Art.dck"
+      },
+      {
+        "type": "card",
+        "count": 1,
+        "probability": 0.2,
+        "sourceDeck": "decks/rewards/Alt-Art_Staples.dck"
+      },
+      {
+        "type": "landSketchbookShop",
+        "probability": 0.1,
+        "count": 1
       }
     ],
     "colors": "B",
@@ -37950,7 +37972,7 @@
     ],
     "ai": "",
     "speed": 45,
-    "life": 20,
+    "life": 30,
     "rewards": [
      {
         "type": "card",
@@ -37958,9 +37980,14 @@
         "cardName": "Reveka, Wizard Savant"
       },
       {
-        "type": "deckCard",
+        "type": "item",
         "count": 1,
-        "addMaxCount": 3,
+        "itemName": "Wizards' Robe"
+      },
+      {
+        "type": "deckCard",
+        "count": 2,
+        "addMaxCount": 2,
         "rarity": [
           "Rare",
           "Mythic Rare"
@@ -37968,8 +37995,8 @@
       },
       {
         "type": "deckCard",
-        "count": 2,
-        "addMaxCount": 4,
+        "count": 1,
+        "addMaxCount": 3,
         "rarity": [
           "common",
           "uncommon"
@@ -37977,31 +38004,48 @@
       },
       {
         "type": "randomCard",
-        "count": 1,
-        "addMaxCount": 3,
-        "rarity": [
-          "Rare",
-          "Mythic Rare"
-	]
-      },
-      {
-        "type": "randomCard",
         "count": 2,
         "addMaxCount": 4,
         "rarity": [
+          "Rare",
+          "Mythic Rare"
+        ]
+      },
+      {
+        "type": "randomCard",
+        "count": 1,
+        "addMaxCount": 3,
+        "rarity": [
           "common",
           "uncommon"
-	]
+        ]
       },
       {
         "type": "gold",
-        "count": 50,
-        "addMaxCount": 250
+        "count": 100,
+        "addMaxCount": 1000
       },
       {
         "type": "shards",
+        "count": 5,
+        "addMaxCount": 15
+      },
+      {
+        "type": "card",
+        "probability": 0.1,
         "count": 1,
-        "addMaxCount": 5
+        "sourceDeck": "decks/rewards/High_End_Alt-Art.dck"
+      },
+      {
+        "type": "card",
+        "count": 1,
+        "probability": 0.2,
+        "sourceDeck": "decks/rewards/Alt-Art_Staples.dck"
+      },
+      {
+        "type": "landSketchbookShop",
+        "probability": 0.1,
+        "count": 1
       }
     ],
     "colors": "U",
@@ -63273,7 +63317,7 @@
     "ai": "",
     "speed": 45,
     "scale": 0.5,
-    "life": 20,
+    "life": 30,
     "rewards": [
       {
         "type": "card",
@@ -63281,9 +63325,14 @@
         "cardName": "Feroz, Ulgrotha's Warden"
       },
       {
-        "type": "deckCard",
+        "type": "item",
         "count": 1,
-        "addMaxCount": 3,
+        "itemName": "Aysen Armor"
+      },
+      {
+        "type": "deckCard",
+        "count": 2,
+        "addMaxCount": 2,
         "rarity": [
           "Rare",
           "Mythic Rare"
@@ -63291,8 +63340,8 @@
       },
       {
         "type": "deckCard",
-        "count": 2,
-        "addMaxCount": 4,
+        "count": 1,
+        "addMaxCount": 3,
         "rarity": [
           "common",
           "uncommon"
@@ -63300,8 +63349,8 @@
       },
       {
         "type": "randomCard",
-        "count": 1,
-        "addMaxCount": 3,
+        "count": 2,
+        "addMaxCount": 4,
         "rarity": [
           "Rare",
           "Mythic Rare"
@@ -63309,8 +63358,8 @@
       },
       {
         "type": "randomCard",
-        "count": 2,
-        "addMaxCount": 4,
+        "count": 1,
+        "addMaxCount": 3,
         "rarity": [
           "common",
           "uncommon"
@@ -63318,13 +63367,30 @@
       },
       {
         "type": "gold",
-        "count": 50,
-        "addMaxCount": 250
+        "count": 100,
+        "addMaxCount": 1000
       },
       {
         "type": "shards",
-        "count": 0,
-        "addMaxCount": 5
+        "count": 5,
+        "addMaxCount": 15
+      },
+      {
+        "type": "card",
+        "probability": 0.1,
+        "count": 1,
+        "sourceDeck": "decks/rewards/High_End_Alt-Art.dck"
+      },
+      {
+        "type": "card",
+        "count": 1,
+        "probability": 0.2,
+        "sourceDeck": "decks/rewards/Alt-Art_Staples.dck"
+      },
+      {
+        "type": "landSketchbookShop",
+        "probability": 0.1,
+        "count": 1
       }
     ],
     "colors": "WUG",
@@ -63408,12 +63474,17 @@
     ],
     "ai": "",
     "speed": 45,
-    "life": 20,
+    "life": 30,
     "rewards": [
       {
         "type": "card",
         "count": 1,
         "cardName": "Autumn Willow, Harmony"
+      },
+      {
+        "type": "item",
+        "count": 1,
+        "itemName": "An-Havva Armor"
       },
       {
         "type": "card",
@@ -63422,8 +63493,8 @@
       },
       {
         "type": "deckCard",
-        "count": 1,
-        "addMaxCount": 3,
+        "count": 2,
+        "addMaxCount": 2,
         "rarity": [
           "Rare",
           "Mythic Rare"
@@ -63431,8 +63502,8 @@
       },
       {
         "type": "deckCard",
-        "count": 2,
-        "addMaxCount": 4,
+        "count": 1,
+        "addMaxCount": 3,
         "rarity": [
           "common",
           "uncommon"
@@ -63440,8 +63511,8 @@
       },
       {
         "type": "randomCard",
-        "count": 0,
-        "addMaxCount": 3,
+        "count": 2,
+        "addMaxCount": 4,
         "rarity": [
           "Rare",
           "Mythic Rare"
@@ -63449,8 +63520,8 @@
       },
       {
         "type": "randomCard",
-        "count": 2,
-        "addMaxCount": 4,
+        "count": 1,
+        "addMaxCount": 3,
         "rarity": [
           "common",
           "uncommon"
@@ -63458,13 +63529,30 @@
       },
       {
         "type": "gold",
-        "count": 50,
-        "addMaxCount": 250
+        "count": 100,
+        "addMaxCount": 1000
       },
       {
         "type": "shards",
-        "count": 0,
-        "addMaxCount": 5
+        "count": 5,
+        "addMaxCount": 15
+      },
+      {
+        "type": "card",
+        "probability": 0.1,
+        "count": 1,
+        "sourceDeck": "decks/rewards/High_End_Alt-Art.dck"
+      },
+      {
+        "type": "card",
+        "count": 1,
+        "probability": 0.2,
+        "sourceDeck": "decks/rewards/Alt-Art_Staples.dck"
+      },
+      {
+        "type": "landSketchbookShop",
+        "probability": 0.1,
+        "count": 1
       }
     ],
     "colors": "G",
