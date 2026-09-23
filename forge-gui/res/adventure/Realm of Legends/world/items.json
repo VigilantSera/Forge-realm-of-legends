@@ -2071,7 +2071,7 @@
     "equipmentSlot": "Left",
     "iconName": "Fblthp'sLostBauble",
     "effect": {
-        "lifeModifier": -4,
+        "lifeModifier": -3,
         "startBattleWithCard": [
         "Wayfarer's Bauble|PF26"
      ]

@@ -1968,6 +1968,66 @@
 			"Story"]
 	},
 	{
+		"name": "Rubblebelt's Edge",
+		"displayName": "Rubblebelt's Edge",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "Building34",
+		"map": "../Realm of Legends/maps/map/barbariancamp/Rubblebelts_Edge.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
+		"name": "Schemer's Study",
+		"displayName": "Schemer's Study",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "CateranCastle",
+		"map": "../Realm of Legends/maps/map/merfolkpool/Schemers_Study.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
+		"name": "Grave of Gaea",
+		"displayName": "Grave of Gaea",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "Building45",
+		"map": "../Realm of Legends/maps/map/grove/Grave_of_Gaea.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
+		"name": "Oriq Inner Sanctum",
+		"displayName": "Oriq Inner Sanctum",
+		"type": "cave",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "Building6",
+		"map": "../Realm of Legends/maps/map/evilgrove_Oriq_Inner_Sanctum.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
+		"name": "Golden Throne Room",
+		"displayName": "Golden Throne Room",
+		"type": "Building17",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
+		"sprite": "Building6",
+		"map": "../Realm of Legends/maps/map/cave/Golden_Throne_Room.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
 		"name": "Black Castle",
 		"displayName": "Fallen Black Castle",
 		"type": "castle",
