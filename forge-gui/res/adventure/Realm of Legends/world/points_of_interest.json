@@ -2018,11 +2018,23 @@
 	{
 		"name": "Golden Throne Room",
 		"displayName": "Golden Throne Room",
-		"type": "Building17",
+		"type": "cave",
 		"count": 1,
 		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
-		"sprite": "Building6",
+		"sprite": "Building17",
 		"map": "../Realm of Legends/maps/map/cave/Golden_Throne_Room.tmx",
+		"radiusFactor": 0.8,
+		"questTags": [
+			"Story"]
+	},
+	{
+		"name": "Domain of Night",
+		"displayName": "Domain of Night",
+		"type": "dungeon",
+		"count": 1,
+		"spriteAtlas": "../Realm of Legends/sprites/buildingsbosses.atlas",
+		"sprite": "Great Aurora",
+		"map": "../Realm of Legends/maps/map/cave/Domain_of_Night.tmx",
 		"radiusFactor": 0.8,
 		"questTags": [
 			"Story"]
