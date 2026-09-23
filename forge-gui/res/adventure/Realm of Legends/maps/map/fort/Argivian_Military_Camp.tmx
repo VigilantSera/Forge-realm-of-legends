@@ -3,6 +3,9 @@
  <editorsettings>
   <export format="tmx"/>
  </editorsettings>
+ <properties>
+  <property name="dungeonEffect" value="{&quot;startBattleWithCard&quot;: [ &quot;Siege Veteran&quot;, &quot;In the Trenches&quot; ]}"/>
+ </properties>
  <tileset firstgid="1" source="../../../../common/maps/tileset/main.tsx"/>
  <tileset firstgid="10113" source="../../../../common/maps/tileset/buildings.tsx"/>
  <tileset firstgid="11905" source="../../../../common/maps/tileset/FarmFood.tsx"/>
@@ -60,9 +63,9 @@
    </properties>
   </object>
   <object id="95" template="../../../../common/maps/obj/collision.tx" x="-16.75" y="-26" width="17" height="539"/>
-  <object id="101" template="../../../../common/maps/obj/enemy.tx" x="360" y="305.993" width="16" height="16" visible="1">
+  <object id="101" template="../../../../common/maps/obj/enemy.tx" x="361.781" y="304.212" width="16" height="16" visible="1">
    <properties>
-    <property name="effect" value="{&quot;startBattleWithCard&quot;: [&quot;Siege Veteran&quot;, &quot;Toacsia's Welcome&quot;, &quot;In the Trenches&quot;, &quot;Forbidding Watchtower&quot;, &quot;Veteran's Armaments&quot;]}"/>
+    <property name="effect" value="{&quot;startBattleWithCard&quot;: [&quot;Toacsia's Welcome&quot;, &quot;Forbidding Watchtower&quot;, &quot;Veteran's Armaments&quot;]}"/>
     <property name="enemy" value="Myrel"/>
     <property name="spawn.Easy" type="bool" value="false"/>
     <property name="spawn.Hard" type="bool" value="true"/>
@@ -160,7 +163,7 @@ Your manasight stone glows, sensing the power of the legend here.&quot;,
   </object>
   <object id="279" template="../../../../common/maps/obj/enemy.tx" x="359.406" y="305.739" width="16" height="16" visible="1">
    <properties>
-    <property name="effect" value="{&quot;startBattleWithCard&quot;: [&quot;Siege Veteran&quot;, &quot;In the Trenches&quot;, &quot;Forbidding Watchtower&quot;, &quot;Veteran's Armaments&quot;]}"/>
+    <property name="effect" value="{&quot;startBattleWithCard&quot;: [&quot;Forbidding Watchtower&quot;, &quot;Veteran's Armaments&quot;]}"/>
     <property name="enemy" value="Myrel"/>
     <property name="spawn.Easy" type="bool" value="true"/>
     <property name="spawn.Hard" type="bool" value="false"/>

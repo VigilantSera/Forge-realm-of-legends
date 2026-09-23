@@ -3,6 +3,9 @@
  <editorsettings>
   <export target="wastetown..tmx" format="tmx"/>
  </editorsettings>
+ <properties>
+  <property name="dungeonEffect" value="{&quot;startBattleWithCard&quot;: [ &quot;Wall of Diffusion&quot; ]}"/>
+ </properties>
  <tileset firstgid="1" source="../../../../common/maps/tileset/main.tsx"/>
  <tileset firstgid="10113" source="../../../../common/maps/tileset/buildings.tsx"/>
  <layer id="6" name="Collision" width="30" height="17">
@@ -37,7 +40,7 @@
   <object id="57" template="../../../../common/maps/obj/manashards.tx" x="339.436" y="84.6495"/>
   <object id="58" template="../../../../common/maps/obj/enemy.tx" x="199.923" y="140.67">
    <properties>
-    <property name="effect" value="{&quot;startBattleWithCard&quot;: [&quot;Wall of Diffusion&quot;, &quot;Wall of Shadows&quot;, &quot;Thunder Wall&quot;, &quot;Shimmering Barrier&quot;]}"/>
+    <property name="effect" value="{&quot;startBattleWithCard&quot;: [&quot;Wall of Shadows&quot;, &quot;Thunder Wall&quot;, &quot;Shimmering Barrier&quot;]}"/>
     <property name="enemy" value="Lyna"/>
     <property name="threatRange" type="int" value="0"/>
    </properties>

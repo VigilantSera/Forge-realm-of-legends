@@ -3,6 +3,9 @@
  <editorsettings>
   <export format="tmx"/>
  </editorsettings>
+ <properties>
+  <property name="dungeonEffect" value="{&quot;startBattleWithCard&quot;: [ &quot;Jester's Cap&quot;, &quot;Jabs, Mistress of Mockery&quot; ]}"/>
+ </properties>
  <tileset firstgid="1" source="../../../../common/maps/tileset/main.tsx"/>
  <tileset firstgid="10113" source="../../../../common/maps/tileset/buildings.tsx"/>
  <tileset firstgid="11905" source="../../../../common/maps/tileset/FarmFood.tsx"/>
@@ -37,9 +40,9 @@
   </data>
  </layer>
  <objectgroup id="12" name="Objects" opacity="0.9" offsetx="3.15789" offsety="7.89474">
-  <object id="201" template="../../../../common/maps/obj/enemy.tx" x="212.816" y="135.487">
+  <object id="201" template="../../../../common/maps/obj/enemy.tx" x="212.149" y="135.487">
    <properties>
-    <property name="effect" value="{ &quot;startBattleWithCard&quot;: [ &quot;Jester's Cap&quot;, &quot;Jabs, Mistress of Mockery&quot;, &quot;Celebr-8000&quot;, &quot;Crumbling Sanctuary&quot; ] }"/>
+    <property name="effect" value="{ &quot;startBattleWithCard&quot;: [ &quot;Celebr-8000&quot;, &quot;Crumbling Sanctuary&quot; ] }"/>
     <property name="enemy" value="The Madcap Jester"/>
     <property name="spawn.Easy" type="bool" value="false"/>
     <property name="spawn.Normal" type="bool" value="false"/>
@@ -62,7 +65,7 @@ Your manasight stone glows, sensing the power of the legend here.&quot;,
   </object>
   <object id="204" template="../../../../common/maps/obj/enemy.tx" x="210.842" y="134.772">
    <properties>
-    <property name="effect" value="{ &quot;startBattleWithCard&quot;: [ &quot;Jester's Cap&quot;, &quot;Jabs, Mistress of Mockery&quot;, &quot;Crumbling Sanctuary&quot; ] }"/>
+    <property name="effect" value="{ &quot;startBattleWithCard&quot;: [ &quot;Crumbling Sanctuary&quot; ] }"/>
     <property name="enemy" value="The Madcap Jester"/>
     <property name="spawn.Easy" type="bool" value="true"/>
     <property name="spawn.Hard" type="bool" value="false"/>

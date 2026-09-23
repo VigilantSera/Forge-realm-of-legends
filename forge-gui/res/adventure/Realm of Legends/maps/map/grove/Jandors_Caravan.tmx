@@ -3,6 +3,9 @@
  <editorsettings>
   <export target="wastetown..tmx" format="tmx"/>
  </editorsettings>
+ <properties>
+  <property name="dungeonEffect" value="{&quot;startBattleWithCard&quot;: [ &quot;Jandor's Saddlebags&quot; ]}"/>
+ </properties>
  <tileset firstgid="1" source="../../../../common/maps/tileset/main.tsx"/>
  <tileset firstgid="10113" source="../../../../common/maps/tileset/buildings.tsx"/>
  <tileset firstgid="11905" source="../../../../common/maps/tileset/main-nocollide.tsx"/>
@@ -53,7 +56,7 @@
       &quot;name&quot;: &quot;(Continue)&quot;, &quot;action&quot;: [{&quot;deleteMapObject&quot;:-1}]}]
 	}
 	]</property>
-    <property name="effect">{ &quot;startBattleWithCard&quot;: [ &quot;Camel&quot;, &quot;War Elephant&quot;, &quot;Wyluli Wolf&quot;, &quot;Ebony Horse&quot;, &quot;Jandor's Saddlebags&quot;, &quot;Jandor's Ring&quot;]
+    <property name="effect">{ &quot;startBattleWithCard&quot;: [ &quot;Camel&quot;, &quot;War Elephant&quot;, &quot;Wyluli Wolf&quot;, &quot;Ebony Horse&quot;, &quot;Jandor's Ring&quot;]
 }</property>
     <property name="enemy" value="Jandor"/>
     <property name="threatRange" type="int" value="0"/>

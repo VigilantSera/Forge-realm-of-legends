@@ -5,6 +5,7 @@
  </editorsettings>
  <properties>
   <property name="respawnEnemies" type="bool" value="true"/>
+  <property name="dungeonEffect" value="{&quot;startBattleWithCard&quot;: [ &quot;Koskun Keep&quot; ]}"/>
  </properties>
  <tileset firstgid="1" source="../../../../common/maps/tileset/main.tsx"/>
  <tileset firstgid="10113" source="../../../../common/maps/tileset/buildings.tsx"/>

@@ -3,6 +3,9 @@
  <editorsettings>
   <export target="wastetown..tmx" format="tmx"/>
  </editorsettings>
+ <properties>
+  <property name="dungeonEffect" value="{&quot;startBattleWithCard&quot;: [ &quot;Dragon Egg&quot;, &quot;Dragon Egg&quot; ]}"/>
+ </properties>
  <tileset firstgid="1" source="../../../../common/maps/tileset/main.tsx"/>
  <tileset firstgid="10113" source="../../../../common/maps/tileset/buildings.tsx"/>
  <layer id="8" name="Tilelaag 4" width="50" height="27">
@@ -58,9 +61,9 @@
    </properties>
   </object>
   <object id="61" template="../../../../common/maps/obj/gold.tx" x="401.404" y="198.409"/>
-  <object id="62" template="../../../../common/maps/obj/enemy.tx" x="370.177" y="239.144">
+  <object id="62" template="../../../../common/maps/obj/enemy.tx" x="369.677" y="236.144">
    <properties>
-    <property name="effect" value="{&quot;startBattleWithCard&quot;: [&quot;brg_3_3_cat_dragon_flying&quot;, &quot;Dragon Egg&quot;, &quot;Dragon Egg&quot;]}"/>
+    <property name="effect" value="{&quot;startBattleWithCard&quot;: [&quot;brg_3_3_cat_dragon_flying&quot;]}"/>
     <property name="enemy" value="Wasitora"/>
     <property name="spawn.Easy" type="bool" value="false"/>
     <property name="spawn.Normal" type="bool" value="false"/>
@@ -85,7 +88,7 @@ Your manasight stone glows, sensing the power of the legend here.&quot;,
   </object>
   <object id="94" template="../../../../common/maps/obj/enemy.tx" x="368" y="237">
    <properties>
-    <property name="effect" value="{&quot;startBattleWithCard&quot;: [&quot;brg_3_3_cat_dragon_flying&quot;, &quot;Crucible of Fire&quot;, &quot;Dragon Egg&quot;, &quot;Dragon Egg&quot;]}"/>
+    <property name="effect" value="{&quot;startBattleWithCard&quot;: [&quot;brg_3_3_cat_dragon_flying&quot;, &quot;Crucible of Fire&quot;]}"/>
     <property name="enemy" value="Wasitora"/>
     <property name="spawn.Easy" type="bool" value="true"/>
     <property name="spawn.Hard" type="bool" value="false"/>
