@@ -458,7 +458,7 @@
 	{
 		"name": "Isolated Hut",
 		"displayName": "Isolated Hut",
-		"type": "cave",
+		"type": "sidebosseasy",
 		"count": 1,
 		"spriteAtlas": "../Realm of Legends/sprites/buildings.atlas",
 		"sprite": "Building198",
