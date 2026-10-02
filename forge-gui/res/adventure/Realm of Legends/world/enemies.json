@@ -66764,10 +66764,10 @@
     "spawnRate": 0
   },
   {
-    "name": "Márton Stromgald",
-    "sprite": "sprites/enemy/humanoid/human/knight/cavalier.atlas",
+    "name": "Maraxus",
+    "sprite": "sprites/enemy/humanoid/human/warrior/gladiator.atlas",
     "deck": [
-      "decks/legends/márton_stromgald.dck"
+      "decks/legends/maraxus.dck"
     ],
     "ai": "",
     "speed": 45,
