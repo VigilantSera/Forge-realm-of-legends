@@ -12,20 +12,17 @@
   {
     "name": "Landscape Sketchbook - Mirage",
     "description": "Gives access to Mirage land arts in the add basic lands menu of the deckbuilder's upper right corner.",
-    "iconName": "LandscapeSketchbook",
-    "questItem": true
+    "iconName": "LandscapeSketchbook"
   },
   {
     "name": "Landscape Sketchbook - Urza's Saga",
     "description": "Gives access to Urza's Saga land arts in the add basic lands menu of the deckbuilder's upper right corner.",
-    "iconName": "LandscapeSketchbook",
-    "questItem": true
+    "iconName": "LandscapeSketchbook"
   },
   {
     "name": "Landscape Sketchbook - Coldsnap",
     "description": "Gives access to Coldsnap land arts in the add basic lands menu of the deckbuilder's upper right corner.",
-    "iconName": "LandscapeSketchbook",
-    "questItem": true
+    "iconName": "LandscapeSketchbook"
   },
   {
     "name": "Landscape Sketchbook - Zendikar",
@@ -240,8 +237,7 @@
   {
     "name": "Landscape Sketchbook - Seventh Edition",
     "description": "Gives access to 7th Ed land arts in the add basic lands menu of the deckbuilder's upper right corner.",
-    "iconName": "LandscapeSketchbook",
-    "questItem": true
+    "iconName": "LandscapeSketchbook"
   },
   {
     "name": "Landscape Sketchbook - Limited Edition Alpha",
@@ -5730,6 +5726,18 @@
       "opponent": {
         "lifeModifier": 6
       }
+    }
+  },
+  {
+    "name": "Commander's Sphere",
+    "description": "Taps for any of your colors or sacrifice for a card. Uses its own special slot.",
+    "equipmentSlot": "Special",
+    "iconName": "CommandersSphere",
+    "questItem": true,
+    "effect": {
+      "startBattleWithCard": [
+        "Commander's Sphere|C14"
+      ]
     }
   },
     {

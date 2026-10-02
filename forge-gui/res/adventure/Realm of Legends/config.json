@@ -158,7 +158,7 @@
       "startingLife": 35,
       "startingShards": 50,
       "startingMoney": 5000,
-      "enemyLifeFactor": 0.8,
+      "enemyLifeFactor": 1.0,
       "spawnRank": 0,          
       "goldLoss": 0,          
       "lifeLoss": 0.1,
@@ -182,7 +182,8 @@
         "Steel Boots",
         "Chromatic Sphere",
         "Echo Shield",
-        "Cloak of the Wastes"
+        "Cloak of the Wastes",
+        "Commander's Sphere"
       ]
     }
     ,{

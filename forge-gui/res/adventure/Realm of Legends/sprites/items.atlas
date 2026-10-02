@@ -42,6 +42,9 @@ ManaforceMace
 Shadowspear
   xy: 256, 560
   size: 16, 16
+CommandersSphere
+  xy: 48, 544
+  size: 16, 16
 HeirloomBlade
   xy: 192, 656
   size: 16, 16
