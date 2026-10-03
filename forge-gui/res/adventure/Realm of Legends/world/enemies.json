@@ -52390,12 +52390,17 @@
     "rewards": [
       {
         "type": "randomCard",
-        "count": 4,
+        "count": 2,
         "addMaxCount": 6,
         "rarity": [
           "Rare",
           "Mythic Rare"
 	]
+      },
+      {
+        "type": "card",
+        "count": 2,
+        "cardName": "Nemesis"
       },
       {
         "type": "randomCard",
@@ -52433,12 +52438,17 @@
     "rewards": [
       {
         "type": "randomCard",
-        "count": 7,
-        "addMaxCount": 10,
+        "count": 5,
+        "addMaxCount": 7,
         "rarity": [
           "Rare",
           "Mythic Rare"
 	]
+      },
+      {
+        "type": "card",
+        "count": 4,
+        "cardName": "Nemesis"
       },
       {
         "type": "randomCard",
